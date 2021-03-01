@@ -1,2 +1,2 @@
 # python-fcc-projects
- Projetos realizados durante o curso 'Scientific Computing with Python Certification' do freeCodeCamp
+ Projetos realizados durante os cursos: 'Scientific Computing with Python Certification' e 'Data Analysis with Python Certification' do freeCodeCamp
